@@ -1,4 +1,4 @@
-## 💻 Projeto 2
+## 💻 Dashboard Financeiro
 Neste projeto criei um dashboard interativo do site da Yahoo Finance. 
 Ou seja,por meio da biblioteca, criaremos um site com um painel de filtros para interagir com o dashboard, o qual utilizará uma API do Yahoo Finance para buscar dados da bolsa de valores brasileira. 
 
